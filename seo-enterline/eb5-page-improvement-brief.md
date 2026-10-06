@@ -32,8 +32,8 @@ Not assessable from pasted text: title tag, meta description, canonical, hreflan
 ## 3. New title, meta description, H1
 | Element | Proposal | Chars |
 |---|---|---|
-| Title | EB-5 Visa for Vietnamese Investors \| Enterline & Partners | 56 |
-| Meta | Licensed U.S. EB-5 attorneys in Ho Chi Minh City and Manila. Requirements, $800,000 / $1,050,000 thresholds, timeline and source of funds explained. | 147 |
+| Title | EB-5 Visa for Vietnamese Investors \| Enterline & Partners | 57 |
+| Meta | Licensed U.S. EB-5 attorneys in Ho Chi Minh City and Manila. Requirements, $800,000 / $1,050,000 thresholds, timeline and source of funds explained. | 148 |
 | H1 | EB-5 Immigrant Investor Visa for Vietnamese and Asian Investors | |
 
 ## 4. Suggested page outline (about 1,800–2,200 words)
